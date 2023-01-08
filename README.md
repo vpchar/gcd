@@ -1,7 +1,8 @@
 # gcd
 ```gcd:[specification]```
 # About
-```{No BS TL;DR specification of the *gcd:* protocol & framework}```
+```javascript
+{Description:'No BS TL;DR specification of the *gcd:* protocol & framework'}```
 
 # Syntax
 ```gcd:[ now | proper | complex ]```
