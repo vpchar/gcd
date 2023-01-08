@@ -1,8 +1,11 @@
 # gcd
 ```gcd:[specification]```
-# About
+
+# gcd:about
 ```javascript
-{Description:'No BS TL;DR specification of the *gcd:* protocol & framework'}
+{
+    Description: 'No BS TL;DR specification of the *gcd:* protocol & framework'
+}
 ```
 
 # Syntax
@@ -10,29 +13,33 @@
 gcd:[ now | proper | complex ]
 ```
 
-## gcd:now
+## gcd:now:
 ```javascript
-{Get-Coding-Done: Now!}
+{mindset:{Get-Coding-Done: !!Now}}
 ```
 
-### gcd:now:goal 
+### gcd:now:goal:
 ```javascript
 {deliver:now}
 ```
 
-### gcd:now:prereq
+### gcd:now:prereq:
 ```javascript
 {rules:null,stack:any}
 ```
 
-### gcd:now:properties
+### gcd:now:properties:
 ```javascript
 {'quick-fixes':true, 'ugly-code':true, 'ninja-hacks':true, 'integrity':false, 'testing':false, 'just-do-it':true, 'quality':none}
 ```
 
-### gcd:now:best-use
+### gcd:now:best-use:
 ```javascript
-app,script,batch-file{small && unimportant && single-use && separate && private-repo && internal-use-only}
+[app | script | batch-file ]:{
+    small && unimportant && 
+    single-use && separate && 
+    private-repo && internal-use-only
+    }
 ```
 
-### gcd:now:human-readable
+### gcd:now:human-readable:
