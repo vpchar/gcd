@@ -1,6 +1,7 @@
 # gcd
+,,,
 gcd:[specification]
-
+,,,
 # About
 {No BS TL;DR specification of the *gcd:* protocol & framework}
 
