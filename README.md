@@ -28,7 +28,9 @@ gcd:[ now | proper | complex ]
 
 ### gcd:now:properties
 ```javascript
-{'quick-fixes':true, 'ugly-code':true, 'ninja-hacks':true, 'integrity':false, 'testing':false, 'just-do-it':true, 'quality':none}
+{'quick-fixes':true, 'ugly-code':true, 'ninja-hacks':true, 
+'integrity':false, 'testing':false, 'just-do-it':true, 
+'quality':null}
 ```
 
 ### gcd:now:best-use
